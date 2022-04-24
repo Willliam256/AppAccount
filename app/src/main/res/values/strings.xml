@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mobile Silence</string>
+    <string name="titleText">Mobile Silence</string>
+    <string name="subTitleText">Maintain Silence Everywhere You Go</string>
+    <string name="joinMsText">Login</string>
+    <string name="fPassword">Forgot Password</string>
+    <string name="uNameHint">UserName or Email</string>
+    <string name="emailHint">Email</string>
+    <string name="passwordHint">Password</string>
+    <string name="or">Or Use</string>
+    <string name="registerAccount">Login</string>
+    <string name="haveAccountText">Don\'t Have An Account?</string>
+    <string name="haveAccountBtn">SignIn</string>
+</resources>
